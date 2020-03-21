@@ -1,6 +1,6 @@
 #Getting started - hello world
 
-print ("Hello world")
+print ("Hello, Sanjay")
 
 print ("How can I write a comment?") # the text after the pound sign is ignored
 
